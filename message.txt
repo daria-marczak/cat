@@ -1,1 +1,1 @@
-button,carousel,carousel-index.html,cat,christmas-tree,countries,DOM,equation,first project,flexbox,functions,grump,hello-world,java-script-project,joke,jquery,kanban,names,node-first,onclick-button,oop,poradnik-photoshop-ciecie.pdf,project-9-8,quiz,random-quote,repeat,rock-paper-scissors,second-first-project Metro,second-project ActiveBox,third-project,third-project-Mache,triangleArea,velociraptor,zadanie
+.git,.gitignore,cat-master.zip,cat_and_dog.jpg,index.js,message.txt,node_modules,package-lock.json,package.json,text.txt
